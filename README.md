@@ -1,2 +1,2 @@
-# Game-library
-A tribute to the games we have played, and completed over the years!
+@Life-library
+A tribute to the games we have played, places we've visited, and closest friends, over the years!
